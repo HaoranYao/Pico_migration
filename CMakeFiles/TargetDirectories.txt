@@ -1,0 +1,13 @@
+/home/haoran/quic/picoquic/CMakeFiles/edit_cache.dir
+/home/haoran/quic/picoquic/CMakeFiles/picoqinq_ct.dir
+/home/haoran/quic/picoquic/CMakeFiles/picolog_t.dir
+/home/haoran/quic/picoquic/CMakeFiles/rebuild_cache.dir
+/home/haoran/quic/picoquic/CMakeFiles/picoquic-log.dir
+/home/haoran/quic/picoquic/CMakeFiles/picoquic-core.dir
+/home/haoran/quic/picoquic/CMakeFiles/clangformat.dir
+/home/haoran/quic/picoquic/CMakeFiles/picohttp_ct.dir
+/home/haoran/quic/picoquic/CMakeFiles/picoquic_ct.dir
+/home/haoran/quic/picoquic/CMakeFiles/picoquicdemo.dir
+/home/haoran/quic/picoquic/CMakeFiles/picoquic_c2csv.dir
+/home/haoran/quic/picoquic/CMakeFiles/picohttp-core.dir
+/home/haoran/quic/picoquic/CMakeFiles/picoqinq-core.dir

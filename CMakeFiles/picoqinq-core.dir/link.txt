@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpicoqinq-core.a  CMakeFiles/picoqinq-core.dir/picoqinq/qinqclient.c.o CMakeFiles/picoqinq-core.dir/picoqinq/qinqproto.c.o CMakeFiles/picoqinq-core.dir/picoqinq/qinqserver.c.o
+/usr/bin/ranlib libpicoqinq-core.a

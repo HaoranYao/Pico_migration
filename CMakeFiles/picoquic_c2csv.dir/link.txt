@@ -1,0 +1,1 @@
+/usr/bin/cc -std=c99 -Wall -Werror -O2 -g    -rdynamic CMakeFiles/picoquic_c2csv.dir/picoquic_c2csv_t/picoquic_c2csv_t.c.o  -o picoquic_c2csv libpicoquic-log.a libpicoquic-core.a /home/haoran/quic/picotls/libpicotls-core.a /home/haoran/quic/picotls/libpicotls-minicrypto.a /home/haoran/quic/picotls/libpicotls-openssl.a -lssl -lcrypto -ldl -lpthread 
